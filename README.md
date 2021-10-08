@@ -1,2 +1,2 @@
 # KNA
-A Semi-Automatic Age Identifier
+A Semi-Automatic Age Identifier Program
